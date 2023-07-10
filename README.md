@@ -1,6 +1,6 @@
 BYFRON IS OUT, BUT IM BYPASSING IT LOL
 
-# Celestial V3
+# Celestial V5.4
 
 
 Making basic bytecode conversion available again to every learning developer
